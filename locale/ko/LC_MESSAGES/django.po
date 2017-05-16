@@ -1263,15 +1263,15 @@ msgstr "줄진"
 
 #: masterleague/lc_strings.py:157
 msgid "Probius"
-msgstr ""
+msgstr "프로비우스"
 
 #: masterleague/lc_strings.py:158
 msgid "Cassia"
-msgstr ""
+msgstr "카시아"
 
 #: masterleague/lc_strings.py:159
 msgid "Genji"
-msgstr ""
+msgstr "겐지"
 
 #: matches/forms.py:17 teams/forms.py:15 teams/forms.py:40
 msgid "Patch"
@@ -1319,11 +1319,11 @@ msgstr "밴"
 
 #: matches/templates/matches/match_detail.html:78
 msgid "Remove from favorites"
-msgstr ""
+msgstr "즐겨찾기에 제거"
 
 #: matches/templates/matches/match_detail.html:80
 msgid "Add to favorites"
-msgstr ""
+msgstr "즐겨찾기에 추가"
 
 #: matches/templates/matches/match_detail.html:85
 msgid "Sign in to add match to favorites"
